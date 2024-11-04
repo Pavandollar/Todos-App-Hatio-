@@ -7,7 +7,7 @@ A simple and efficient Todo List application built with the MERN stack. This app
 
 ![rsz_1capture](https://github.com/user-attachments/assets/7af1c3da-faff-47b6-97b9-adda014a84ee)
 ![rsz_1capture2](https://github.com/user-attachments/assets/7158a607-c18c-41bc-a079-7538c0389393)
-![rsz_capture3](https://github.com/user-attachments/assets/0726643c-f225-4062-84bc-fe8f62d9956e)
+![rsz_1capture3](https://github.com/user-attachments/assets/303fe20a-47c4-45ab-9742-5ed660a61e54)
 
 
 
